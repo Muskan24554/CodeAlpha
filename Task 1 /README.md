@@ -22,7 +22,6 @@ Enable business exploration with slicers for period, region, category, and chann
 Provide actionable diagnostics—high return/cancel items, margin drivers, and customer/payment behaviors—to prioritize pricing, promotion, assortment, and fulfillment improvements.
 
 
-
 ## Dashboard
 <img width="927" height="466" alt="<img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/74e4b8af-8bce-4762-8e88-575fd5b4fd9d" />
 
